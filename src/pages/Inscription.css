@@ -1,0 +1,9 @@
+.inscription {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inscription ion-list {
+    margin-top: 25%;
+}
